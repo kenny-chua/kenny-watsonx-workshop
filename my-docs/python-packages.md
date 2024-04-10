@@ -14,9 +14,9 @@
 | `pypdf`                            |         |
 | `pypdf`                            | 3.12.2  |
 | InstructorEmbedding                |         |
-| 'transformers[torch]'              |         |
 | `sentence-transformers`            |         |
 | `sentence-transformers`            | 2.2.2   |
+| 'transformers[torch]'              |         |
 | Flask flask-restful flask_httpauth |         |
 | from-root                          |         |
 | unstructured                       |         |
