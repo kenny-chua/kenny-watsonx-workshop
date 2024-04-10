@@ -41,4 +41,4 @@
 | ~~safetensors~~                    | 0.3.1   |
 | ~~scikit-learn~~                   | 1.2.2   |
 | streamlit                          | 1.24.1  |
-| urllib3                            | 1.26.11 |
+| ~~urllib3~~                        | 1.26.11 |
