@@ -7,7 +7,7 @@
 | `chromadb`                         | 0.4.2   |
 | chroma-migrate                     |         |
 | ~~`python-dotenv`~~                |         |
-| ~~`python-dotenv`~~                    | 1.0.0   |
+| ~~`python-dotenv`~~                | 1.0.0   |
 | langchain                          | 0.0.236 |
 | ibm-generative-ai                  |         |
 | ~~'ibm-generative-ai[langchain]'~~ |         |
