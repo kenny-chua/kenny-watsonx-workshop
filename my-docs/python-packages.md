@@ -10,7 +10,7 @@
 | ~~`python-dotenv`~~                    | 1.0.0   |
 | langchain                          | 0.0.236 |
 | ibm-generative-ai                  |         |
-| ibm-generative-ai[langchain]       |         |
+| ~~'ibm-generative-ai[langchain]'~~ |         |
 | `pypdf`                            |         |
 | `pypdf`                            | 3.12.2  |
 | InstructorEmbedding                |         |
