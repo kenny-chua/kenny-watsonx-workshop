@@ -36,7 +36,7 @@
 | ~~pandas~~                         | 1.5.3   |
 | plotly                             | 5.15.0  |
 |                                    |         |
-| requests                           | 2.31.0  |
+| ~~requests~~                           | 2.31.0  |
 | rouge                              | 1.0.1   |
 | safetensors                        | 0.3.1   |
 | scikit-learn                       | 1.2.2   |
