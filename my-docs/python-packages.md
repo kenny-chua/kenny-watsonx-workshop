@@ -29,11 +29,11 @@
 | `ibm-watson-machine-learning`      | 1.0.311 |
 |                                    |         |
 | jupyter                            | 1.0.0   |
-| jupyterlab                         |         |
+| ~~jupyterlab~~                     |         |
 |                                    |         |
-| ipywidgets                         | 8.0.7   |
-| numpy                              | 1.24.2  |
-| pandas                             | 1.5.3   |
+| ~~ipywidgets~~                     | 8.0.7   |
+| ~~numpy~~                          | 1.24.2  |
+| ~~pandas~~                         | 1.5.3   |
 | plotly                             | 5.15.0  |
 |                                    |         |
 | requests                           | 2.31.0  |
