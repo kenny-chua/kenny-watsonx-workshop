@@ -1,4 +1,4 @@
-#!/Users/kennychua/my-workspace/tutorials/kenny-watsonx-workshop/genai/bin/python3.11
+#!/Users/kennychua/my-workspace/tutorials/kenny-watsonx-workshop/genai/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
